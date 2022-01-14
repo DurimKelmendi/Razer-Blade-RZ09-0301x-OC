@@ -2,7 +2,7 @@
 OpenCore files for Razer blade Advanced 15" to install Big Sur.
 
 # Laptop specifications
-| Razer Blade 15" Advanced 2020 |
+| Razer Blade 15" Advanced 2020 | ------ |
 | ------ | ------ |
 | CPU | Intel i7-9750H |
 | GPU | Nvidia Rtx 2080 Max-Q Design (Disabled) |
