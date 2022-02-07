@@ -11,3 +11,4 @@ OpenCore files for Razer blade Advanced 15" to install Big Sur.
 | Screen | 1080p IPS 240hz panel |
 
 OpenCore version 0.7.7 Installs with Big Sur versions pre 11.2.1.
+(To update Big Sur to later versions, you must map USB ports and disable XHCI Port Limit.)
